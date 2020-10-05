@@ -1,4 +1,4 @@
 # cpp-practice
- some console app for learning purpose
+ some console app for self practice
  
  
